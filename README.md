@@ -21,3 +21,5 @@
 [区块链开发入门书籍和文档](https://bitshuo.com/topic/583405978bf98a143753b86a)
 
 [通过HTTP调用以太坊api](https://bitshuo.com/topic/583193294e4ed0635c442f32)
+
+[区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
