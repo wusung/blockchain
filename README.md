@@ -23,3 +23,5 @@
 [通过HTTP调用以太坊api](https://bitshuo.com/topic/583193294e4ed0635c442f32)
 
 [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
+
+[A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social)
