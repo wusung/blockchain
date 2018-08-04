@@ -25,3 +25,5 @@
 [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
 
 [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social)
+
+[Messanger based on blockchain](https://www.mercuryprotocol.com/)
