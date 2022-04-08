@@ -27,3 +27,9 @@
 [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social)
 
 [Messanger based on blockchain](https://www.mercuryprotocol.com/)
+
+
+### Web 3
+[Web3.0 的觀察紀錄](https://medium.com/sideproject-pro/web3-0-%E7%9A%84%E8%A7%80%E5%AF%9F%E7%B4%80%E9%8C%84-1a365629e4c8)
+[My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+
