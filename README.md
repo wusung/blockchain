@@ -19,7 +19,6 @@
 [Node.js开发加密货币](http://bitcoin-on-nodejs.ebookchain.org/)
 
 [区块链开发入门书籍和文档](https://bitshuo.com/topic/583405978bf98a143753b86a)
-
 [通过HTTP调用以太坊api](https://bitshuo.com/topic/583193294e4ed0635c442f32)
 
 [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content/)
@@ -30,6 +29,8 @@
 
 
 ### Web 3
+
 [Web3.0 的觀察紀錄](https://medium.com/sideproject-pro/web3-0-%E7%9A%84%E8%A7%80%E5%AF%9F%E7%B4%80%E9%8C%84-1a365629e4c8)
+
 [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
 
