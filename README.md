@@ -21,3 +21,4 @@
 
 - [Web3.0 的觀察紀錄](https://medium.com/sideproject-pro/web3-0-%E7%9A%84%E8%A7%80%E5%AF%9F%E7%B4%80%E9%8C%84-1a365629e4c8)
 - [My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Web 3.0 通识课](https://j08v3n7cqq.feishu.cn/docs/doccnu8PLq5zJcaZJUzTaLyEOPc#Tb3wvI)
